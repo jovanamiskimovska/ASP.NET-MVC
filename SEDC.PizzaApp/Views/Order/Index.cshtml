@@ -1,0 +1,8 @@
+﻿@model List<SEDC.PizzaApp.Models.Domain.Order>
+
+<h3>All the orders:</h3>
+
+@for(int i = 0; i < Model.Count(); i++)
+            {
+                <h4>@Model[i].Pizza - @Model[i].User - @Model[i].PaymentMethod</h4>
+            }
