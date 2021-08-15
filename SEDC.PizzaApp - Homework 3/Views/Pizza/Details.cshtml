@@ -1,0 +1,20 @@
+﻿@using SEDC.PizzaApp.Models.Domain
+@model Pizza 
+
+<h2>Pizza Details:</h2>
+
+<p>@Model.Name</p>
+<p>@Model.PizzaSize</p>
+
+@{ if (Model.IsOnPromotion)
+    {
+        <h4>The chosen pizza is on promotion!</h4>
+    }
+    else
+    {
+        <h4>The chosen pizza is not on promotion!</h4>
+    }
+}
+
+<p>PARTIAL</p>
+<partial name="~/Views/Shared/Partials/_PizzaPartialView.cshtml" for="@Model" />
