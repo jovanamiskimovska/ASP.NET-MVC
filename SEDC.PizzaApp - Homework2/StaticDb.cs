@@ -1,4 +1,5 @@
 ﻿using SEDC.PizzaApp.Models.Domain;
+using SEDC.PizzaApp.Models.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,14 +16,18 @@ namespace SEDC.PizzaApp
                 Id = 1,
                 Name="Capri",
                 Price = 350,
-                IsOnPromotion = true
+                IsOnPromotion = true,
+                HasExtras = true,
+                PizzaSize = PizzaSize.Family
             },
             new Pizza
             {
                 Id = 2,
                 Name="Margarita",
                 Price = 300,
-                IsOnPromotion = false
+                IsOnPromotion = false,
+                HasExtras = false,
+                PizzaSize = PizzaSize.Normal
             }
         };
 

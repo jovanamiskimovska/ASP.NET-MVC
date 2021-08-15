@@ -662,11 +662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\MVC Homeworks\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+      "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\ASP.NET-MVC\\SEDC.PizzaApp - Homework2\\SEDC.PizzaApp.csproj",
       "projectName": "SEDC.PizzaApp",
-      "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\MVC Homeworks\\SEDC.PizzaApp\\SEDC.PizzaApp.csproj",
+      "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\ASP.NET-MVC\\SEDC.PizzaApp - Homework2\\SEDC.PizzaApp.csproj",
       "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\MVC Homeworks\\SEDC.PizzaApp\\obj\\",
+      "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Documents\\GitHub\\ASP.NET-MVC\\SEDC.PizzaApp - Homework2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
