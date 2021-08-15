@@ -1,0 +1,8 @@
+﻿@model List<SEDC.PizzaApp.Models.ViewModels.PizzaViewModel>
+
+<h2>These are our pizzas:</h2>
+
+@for (int i = 0; i < Model.Count(); i++) 
+{
+    <p>@Model[i].Name - @Model[i].Price</p>
+}
