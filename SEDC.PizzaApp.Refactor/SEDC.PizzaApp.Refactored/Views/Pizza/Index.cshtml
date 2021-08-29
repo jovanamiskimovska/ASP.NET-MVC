@@ -1,0 +1,19 @@
+﻿@model List<PizzaListViewModel>
+
+<div class="text-center">
+    <a asp-action="Create" asp-controller="Pizza" class="btn">Create pizza</a>
+    <h2 class="display-4">List of pizzas:</h2>
+</div>
+<br />
+
+<div class="row">
+    @foreach (var pizza in @Model)
+    {
+            <div class="card-body">
+                <h5 class="card-title">Name: @pizza.Name</h5>
+                <h5 class="card-title">Size: @pizza.PizzaSize</h5>
+            </div>
+            <a asp-controller="Pizza" asp-action="Details" asp-route-id="@pizza.Id">See details</a>
+
+    }
+</div>

@@ -1,0 +1,8 @@
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.deps.json
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Domain\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb

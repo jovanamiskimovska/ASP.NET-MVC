@@ -1,0 +1,14 @@
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.deps.json
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.pdb
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.AssemblyInfo.cs
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.csproj.CopyComplete
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.dll
+C:\Users\Miskimovski\source\repos\SEDC.PizzaApp.Refactor\SEDC.PizzaApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Mappers.pdb
