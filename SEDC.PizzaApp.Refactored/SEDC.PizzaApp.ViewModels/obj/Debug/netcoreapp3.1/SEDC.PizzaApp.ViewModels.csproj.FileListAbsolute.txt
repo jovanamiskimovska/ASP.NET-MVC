@@ -1,0 +1,24 @@
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Miskimovski\OneDrive\Desktop\skwd9-net-08-aspnetmvc-main\skwd9-net-08-aspnetmvc-main\G2\Class08 - Finish PizzaApp\Code\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.deps.json
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\bin\Debug\netcoreapp3.1\SEDC.PizzaApp.Domain.pdb
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.AssemblyInfo.cs
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.csproj.CopyComplete
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.dll
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.ViewModels\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.ViewModels.pdb

@@ -1,0 +1,17 @@
+﻿@model FeedbackDetailsViewModel
+
+<div class="text-center">
+    <h2 class="display-4">Feedback Details</h2>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title"><label asp-for="Name"></label>: @Model.Name</h5>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Email"></label>: @Model.Email</h6>
+        <h6 class="card-subtitle mb-2 text-muted"><label asp-for="Message"></label>: @Model.Message</h6>
+    </div>
+</div>
+<br />
+<a asp-controller="Feedback" asp-action="Edit" asp-route-id="@Model.Id">Edit Feedback</a>
+<a asp-controller="Feedback" asp-action="Delete" asp-route-id="@Model.Id">Delete Feedback</a>
+

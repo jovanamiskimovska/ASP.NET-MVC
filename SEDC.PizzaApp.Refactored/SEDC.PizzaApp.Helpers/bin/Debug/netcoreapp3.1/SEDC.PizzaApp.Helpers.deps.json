@@ -1,0 +1,120 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.PizzaApp.Helpers/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
+          "SEDC.PizzaApp.DataAccess": "1.0.0",
+          "SEDC.PizzaApp.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PizzaApp.Helpers.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "SEDC.PizzaApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "SEDC.PizzaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PizzaApp.DataAccess.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.PizzaApp.Domain.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.Mappers/1.0.0": {
+        "dependencies": {
+          "SEDC.PizzaApp.Domain": "1.0.0",
+          "SEDC.PizzaApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PizzaApp.Mappers.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.PizzaApp.DataAccess": "1.0.0",
+          "SEDC.PizzaApp.Domain": "1.0.0",
+          "SEDC.PizzaApp.Mappers": "1.0.0",
+          "SEDC.PizzaApp.Shared": "1.0.0",
+          "SEDC.PizzaApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PizzaApp.Services.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.Shared/1.0.0": {
+        "runtime": {
+          "SEDC.PizzaApp.Shared.dll": {}
+        }
+      },
+      "SEDC.PizzaApp.ViewModels/1.0.0": {
+        "dependencies": {
+          "SEDC.PizzaApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PizzaApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.PizzaApp.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    },
+    "SEDC.PizzaApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PizzaApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PizzaApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PizzaApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PizzaApp.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PizzaApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
