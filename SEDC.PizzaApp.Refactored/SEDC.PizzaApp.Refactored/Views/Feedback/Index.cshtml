@@ -1,0 +1,21 @@
+﻿@model List<FeedbackListViewModel>
+
+<div class="text-center">
+    <a asp-action="Insert" asp-controller="Feedback" class="btn">Insert Feedback</a>
+    <h2 class="display-4">List of feedbacks:</h2>
+</div>
+<br />
+
+<div class="row">
+    @foreach (var feedback in @Model)
+    {
+
+    <div class="card-body">
+        <h5 class="card-title">User's Name: @feedback.Name</h5>
+        <h5 class="card-title">User's Email: @feedback.Email</h5>
+    </div>
+    <a asp-controller="Feedback" asp-action="Details" asp-route-id="@feedback.Id">See details</a>
+    <a asp-controller="Feedback" asp-action="Edit" asp-route-id="@feedback.Id">Edit Feedback</a>
+    <a asp-controller="Feedback" asp-action="Delete" asp-route-id="@feedback.Id">Delete Feedback</a>
+    }
+</div>

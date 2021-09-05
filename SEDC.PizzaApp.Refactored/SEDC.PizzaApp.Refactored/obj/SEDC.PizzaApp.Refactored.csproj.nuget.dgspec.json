@@ -1,0 +1,535 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj",
+        "projectName": "SEDC.PizzaApp.DataAccess",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+        "projectName": "SEDC.PizzaApp.Domain",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+        "projectName": "SEDC.PizzaApp.Helpers",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
+        "projectName": "SEDC.PizzaApp.Mappers",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+        "projectName": "SEDC.PizzaApp.Refactored",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Refactored\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Helpers\\SEDC.PizzaApp.Helpers.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj",
+        "projectName": "SEDC.PizzaApp.Services",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\SEDC.PizzaApp.Services.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.DataAccess\\SEDC.PizzaApp.DataAccess.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Mappers\\SEDC.PizzaApp.Mappers.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj"
+              },
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+        "projectName": "SEDC.PizzaApp.Shared",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\SEDC.PizzaApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj",
+        "projectName": "SEDC.PizzaApp.ViewModels",
+        "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\SEDC.PizzaApp.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Miskimovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Miskimovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Miskimovski\\OneDrive\\Desktop\\skwd9-net-08-aspnetmvc-main\\skwd9-net-08-aspnetmvc-main\\G2\\Class08 - Finish PizzaApp\\Code\\SEDC.PizzaApp.Refactored\\SEDC.PizzaApp.Domain\\SEDC.PizzaApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
