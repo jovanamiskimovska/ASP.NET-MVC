@@ -1,4 +1,5 @@
 ﻿using SEDC.PizzaApp.ViewModels.OrderViewModels;
+using SEDC.PizzaApp.ViewModels.PizzaViewModels;
 using System.Collections.Generic;
 
 namespace SEDC.PizzaApp.Services.Interfaces
@@ -12,5 +13,7 @@ namespace SEDC.PizzaApp.Services.Interfaces
         OrderViewModel GetOrderForEditing(int id);
         void EditOrder(OrderViewModel orderViewModel);
         void DeleteOrder(int id);
+        List<PizzaDDViewModel> GetPizzasForRemoveDropdown(int orderId);
+        void RemovePizzaFromOrder(RemovePizzaModel removePizzaModel);
     }
 }

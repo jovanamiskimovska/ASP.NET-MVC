@@ -383,3 +383,4 @@ C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refacto
 C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Refactored.dll
 C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Refactored.pdb
 C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored\obj\Debug\netcoreapp3.1\SEDC.PizzaApp.Refactored.genruntimeconfig.cache
+C:\Users\Miskimovski\OneDrive\Documents\GitHub\ASP.NET-MVC\SEDC.PizzaApp.Refactored\SEDC.PizzaApp.Refactored\obj\Debug\netcoreapp3.1\Razor\Views\Order\RemovePizza.cshtml.g.cs

@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.PizzaApp.Mappers", "SE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.PizzaApp.Helpers", "SEDC.PizzaApp.Helpers\SEDC.PizzaApp.Helpers.csproj", "{0797E40D-4DC4-4EF3-80C7-6AE41ADDEC22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.PizzaApp.Shared", "SEDC.PizzaApp.Shared\SEDC.PizzaApp.Shared.csproj", "{BEFC76D8-6809-46D8-917A-88EB8F1C6B20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.PizzaApp.Shared", "SEDC.PizzaApp.Shared\SEDC.PizzaApp.Shared.csproj", "{BEFC76D8-6809-46D8-917A-88EB8F1C6B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

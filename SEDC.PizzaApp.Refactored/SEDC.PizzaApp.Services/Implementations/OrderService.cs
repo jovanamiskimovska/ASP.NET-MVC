@@ -130,5 +130,43 @@ namespace SEDC.PizzaApp.Services.Implementations
             //return mapped view model
             return orderDb.ToOrderViewModel();
         }
+        public List<PizzaDDViewModel> GetPizzasForRemoveDropdown(int orderId)
+        {
+            Order orderDb = _orderRepository.GetById(orderId);
+            if (orderDb == null)
+            {
+                throw new ResourceNotFoundException($"The order with id {orderId} was not found!");
+            }
+            List<Pizza> pizzasInOrder = new List<Pizza>();
+            foreach (PizzaOrder pizzaOrder in orderDb.PizzaOrders)
+            {
+                pizzasInOrder.Add(pizzaOrder.Pizza);
+            }
+            return pizzasInOrder.Select(x => x.ToPizzaDDViewModel()).ToList();
+        }
+
+        public void RemovePizzaFromOrder(RemovePizzaModel removePizzaModel)
+        {
+            Pizza pizzaDb = _pizzaRepository.GetById(removePizzaModel.PizzaId);
+            if (pizzaDb == null)
+            {
+                //log
+                throw new Exception($"Pizza with id {removePizzaModel.PizzaId} was not found");
+            }
+            Order orderDb = _orderRepository.GetById(removePizzaModel.OrderId);
+            if (orderDb == null)
+            {
+                //log
+                throw new Exception($"Order with id {removePizzaModel.OrderId} was not found");
+            }
+            if (orderDb.PizzaOrders.Any(x => x.PizzaId == removePizzaModel.PizzaId) == false)
+            {
+                throw new Exception($"The order with id {removePizzaModel.OrderId} does not contain {removePizzaModel.PizzaId}");
+            }
+            PizzaOrder pizzaOrder = orderDb.PizzaOrders.FirstOrDefault(x => x.PizzaId == removePizzaModel.PizzaId);
+            orderDb.PizzaOrders.Remove(pizzaOrder);
+
+            _orderRepository.Update(orderDb);
+        }
     }
 }

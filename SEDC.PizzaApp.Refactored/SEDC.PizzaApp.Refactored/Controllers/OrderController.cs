@@ -163,5 +163,26 @@ namespace SEDC.PizzaApp.Refactored.Controllers
                 return View("ExceptionPage");
             }
         }
+        public IActionResult RemovePizza(int id) //orderId
+        {
+            RemovePizzaModel removePizzaModel = new RemovePizzaModel();
+            removePizzaModel.OrderId = id;
+            ViewBag.Pizzas = _orderService.GetPizzasForRemoveDropdown(id);
+            return View(removePizzaModel);
+        }
+
+        [HttpPost]
+        public IActionResult RemovePizza(RemovePizzaModel removePizzaModel)
+        {
+            try
+            {
+                _orderService.RemovePizzaFromOrder(removePizzaModel);
+                return RedirectToAction("Details", new { id = removePizzaModel.OrderId });
+            }
+            catch (Exception e)
+            {
+                return View("ExceptionPage");
+            }
+        }
     }
 }
